@@ -22,7 +22,7 @@ body{
 .container{
 	padding:  10px 10%;
 }
-.sticky{
+nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
