@@ -22,15 +22,6 @@ body{
 .container{
 	padding:  10px 10%;
 }
-nav{
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	flex-wrap: wrap;
-	position: fixed;
-	top: 0;
-	width: 100%;
-}
 .logo{
 	width: 140px;
 }
