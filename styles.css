@@ -21,14 +21,13 @@ body{
 
 .container{
 	padding:  10px 10%;
+	position: sticky; top: 0;
 }
 nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	position: sticky;
-	top: 0;
 }
 .logo{
 	width: 140px;
