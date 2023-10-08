@@ -30,7 +30,6 @@ nav{
 }
 .logo{
 	width: 140px;
-	flex-wrap: wrap;
 	display: flex;
 }
 nav ul li{
