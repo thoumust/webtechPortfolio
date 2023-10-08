@@ -30,7 +30,8 @@ nav{
 }
 .logo{
 	width: 140px;
-	float: left;
+	flex-wrap: wrap;
+	display: flex;
 }
 nav ul li{
 	display: inline-block;
